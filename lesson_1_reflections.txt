@@ -1,0 +1,52 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It made it more easy and clear by the alinement 
+    changes that FC and diff -u offered. 
+    Furthermore, it was faster than finding diff manually. 
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It will definitely make it easier and 
+    faster to find and correct bugs, 
+    thereby making the programmer more efficient. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+ 	Pros: it gives you a meaningfull and clear
+ 	way to ckeck the file history changes
+ 	Cons: if you are forgetfull and don't 
+ 	remember to save manually, you could be 
+ 	in a situation were it becomes dificult to 
+ 	find and correct bug
+
+    
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git allows saving multiple files in one commit 
+    because this offers the programmer 
+    the opportunity to track co-dependent files. Google Docs 
+    does not offer this practical feauture and thereby 
+    makes it more time consuming for the programmer to visualize 
+    changes. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log lists all the commits ID and git diff can compare two ID's 
+    and lists all the changes in respective commit. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    If a bug is found one has the option of checking out an earlier commit 
+    to see if the bug was introduced with the commit. Using git
+   checkout and git diff it is easier to find the bug and thereby gives 
+   more confidence in exploring and experimenting. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
