@@ -25,6 +25,8 @@ organized? How would branches help?
     branched code, they will not affect you master code.
 
 How do the diagrams help you visualize the branch structure?
+    The diagram helps me see by which commit i've branched and also makes it 
+    easier to see which commit have been made after the branch in question
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
