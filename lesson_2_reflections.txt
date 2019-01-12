@@ -12,9 +12,17 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+    The staging area can be used to check if a change has been made 
+    to the working directory using the git diff comand and also to be used to 
+    check if a change has been commited are not (i.e. is the change in the 
+    staging area or has it been commited.) 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+    When you want to experiment with your code and don't want to affect 
+    your code, then a new branch can offer you the security that your work 
+    will not be compromised. Regardless of the changes you make in the
+    branched code, they will not affect you master code.
 
 How do the diagrams help you visualize the branch structure?
 
