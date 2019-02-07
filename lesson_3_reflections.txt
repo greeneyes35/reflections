@@ -24,7 +24,10 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    When working with a code in a place without internet access it is good to have
+    the most updated version. This way the work can continue offline. Another
+    advantage is that your local copy is only modified when you want as oppose to the
+    remote on Github.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
