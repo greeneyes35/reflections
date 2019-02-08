@@ -32,7 +32,12 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Share my documents using email or some cloud service. It would be less complicated 
+    to share by email, but in the long run more of a mess, because it lacks the flexibility 
+    that Github offers and it would take more time to share. Furthermore one would have to 
+    check their mail to know about the Pull request. The commit history is even harder without
+    Git. 
+     
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
