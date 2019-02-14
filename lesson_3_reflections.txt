@@ -42,4 +42,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When you want to test a new idea and share it with others it's best to make the changes 
+    in a separate branch so the main branch is not disrupted. In addition it's good 
+    to share the separate branch with others so that they can see the changes and 
+    evaluate if it's appropriate to merge the branch into the master branch. However, making a change 
+    in the master branch is easier and less complicated if sharing is not esential for your work   
